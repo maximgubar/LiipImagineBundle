@@ -2,4 +2,3 @@
 <?php
 define('RMT_ROOT_DIR', __DIR__);
 require 'vendor/liip/rmt/command.php';
-

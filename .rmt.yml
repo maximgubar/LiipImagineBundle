@@ -33,5 +33,5 @@ master:
     pre-release-actions:
         changelog-update:          # Update a CHANGELOG file before the release
             format: semantic
+            file: CHANGELOG.md
         vcs-commit: ~              # Commit the CHANGELOG
-
